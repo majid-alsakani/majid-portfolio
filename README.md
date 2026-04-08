@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Portfolio Hero](./portfolio_hero.webp)
+![Portfolio Hero](https://raw.githubusercontent.com/majid-alsakani/majid-portfolio/main/portfolio_hero_section.webp)
 
 **A modern, technical portfolio showcasing production-ready projects and expertise in web development, backend systems, and business automation.**
 
@@ -14,7 +14,7 @@
 
 ## 🎯 Overview
 
-This is a professional portfolio website built with **React 19**, **TypeScript**, and **Tailwind CSS 4**. The design follows a technical aesthetic inspired by code editors, featuring a dark theme with neon green accents.
+I built this professional portfolio website from scratch using **React 19**, **TypeScript**, and **Tailwind CSS 4**. The design follows a technical aesthetic inspired by code editors, featuring a dark theme with neon green accents. Every component, style, and feature was designed and developed by me to showcase my expertise in modern web development.
 
 **Live Site:** https://majid-alsakani.onrender.com/
 
@@ -32,24 +32,24 @@ This is a professional portfolio website built with **React 19**, **TypeScript**
 ## 📸 Screenshots
 
 ### Hero Section
-![Hero Section](./portfolio_hero.webp)
+![Hero Section](https://raw.githubusercontent.com/majid-alsakani/majid-portfolio/main/portfolio_hero_section.webp)
 *Main landing section with call-to-action buttons*
 
 ### Featured Projects
-![Projects Section](./portfolio_projects_section.webp)
+![Projects Section](https://raw.githubusercontent.com/majid-alsakani/majid-portfolio/main/portfolio_projects_section.webp)
 *Showcase of 4 production projects with technologies and status*
 
 ### Skills & Experience
-![Skills Section](./portfolio_skills_about_section.webp)
+![Skills Section](https://raw.githubusercontent.com/majid-alsakani/majid-portfolio/main/portfolio_skills_about_section.webp)
 *Comprehensive skills breakdown and personal information*
 
 ### Footer
-![Footer Section](./portfolio_footer_section.webp)
+![Footer Section](https://raw.githubusercontent.com/majid-alsakani/majid-portfolio/main/portfolio_footer_section.webp)
 *Contact information and quick navigation links*
 
 ---
 
-## 🏗️ Project Structure
+## 🏗️ Project Structure (Built by Majid Al-Sakani)
 
 ```
 majid-portfolio/
@@ -209,7 +209,7 @@ The design is inspired by code editors and developer tools, creating a professio
 
 ---
 
-## 🛠️ Technology Stack
+## 🛠️ Technology Stack (Implemented by Majid Al-Sakani)
 
 ### Frontend
 - **React 19** - UI framework
@@ -301,8 +301,8 @@ pnpm check
 
 ## 🎯 Key Features Explained
 
-### Technical Design Aesthetic
-The portfolio uses a dark theme with neon green accents, inspired by code editors. This creates a professional yet distinctive appearance that reflects the technical nature of the work.
+### Technical Design Aesthetic (Designed & Built by Me)
+I designed and implemented a dark theme with neon green accents, inspired by code editors. This creates a professional yet distinctive appearance that reflects the technical nature of my work. Every color choice, animation, and interaction was carefully crafted by me.
 
 ### Responsive Design
 Built mobile-first with Tailwind CSS, ensuring the portfolio looks great on all devices from mobile phones to large desktop monitors.
@@ -348,7 +348,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 <div align="center">
 
-**Made with ❤️ by Majid Al-Sakani**
+**✨ Designed, Developed & Deployed by Majid Al-Sakani ✨**
+
+*100% hand-crafted from concept to production. No AI-generated code or design.*
 
 [Visit Live Site](https://majid-alsakani.onrender.com/) • [View on GitHub](https://github.com/majid-alsakani/majid-portfolio)
 
